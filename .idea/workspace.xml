@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="622501eb-f3fd-4788-b6e0-49cb2197c22c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tvnZWZpzBTxVTu6E9FZpf9PQQ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\grpc-java\grpc-netty-java\protoc-generate\src\main" />
+      <recent name="E:\project\grpc-java\grpc-netty-java\src\main" />
+      <recent name="E:\project\grpc-java\grpc-netty-java\src\main\java" />
+      <recent name="E:\project\grpc-java\grpc-netty-java\src\main\proto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\grpc-java\grpc-netty-java\protoc-generate\src\main\proto" />
+      <recent name="E:\project\grpc-java\grpc-netty-java\src\main" />
+      <recent name="E:\project\grpc-java\grpc-netty-java\target\protoc-plugins" />
+      <recent name="E:\project\grpc-java\grpc-netty-java\src\main\proto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HelloWorldTest.testGrpc">
+    <configuration name="HelloWorldClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.grpc.client.HelloWorldClient" />
+      <module name="grpc-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.grpc.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.testGrpc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="grpc-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.grpc.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.grpc.client" />
+      <option name="MAIN_CLASS_NAME" value="io.grpc.client.HelloWorldTest" />
+      <option name="METHOD_NAME" value="testGrpc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrpcServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="grpc-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.grpc.GrpcServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorldClient" />
+      <item itemvalue="JUnit.HelloWorldTest.testGrpc" />
+      <item itemvalue="Spring Boot.GrpcServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelloWorldTest.testGrpc" />
+        <item itemvalue="Application.HelloWorldClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="622501eb-f3fd-4788-b6e0-49cb2197c22c" name="Default Changelist" comment="" />
+      <created>1623658485502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623658485502</updated>
+      <workItem from="1623658489061" duration="4887000" />
+      <workItem from="1623719702393" duration="6985000" />
+      <workItem from="1623736494695" duration="485000" />
+      <workItem from="1623737004423" duration="3958000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.proto" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
